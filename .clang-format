@@ -1,0 +1,10 @@
+# .clan-format LLVM style
+
+BasedOnStyle: LLVM
+
+# 4 spaces
+IndentWidth: 4
+# align bitfields
+AlignConsecutiveBitFields: true
+# not align comments
+AlignTrailingComments: Leave
